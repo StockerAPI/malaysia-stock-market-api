@@ -47,7 +47,7 @@ This repository is designed to make Malaysia market API coverage easier to disco
 
 ## Links
 
-- Website: https://kun.pro/markets/malaysia-stock-market-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
